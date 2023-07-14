@@ -2557,6 +2557,7 @@ ul.alt li:first-child {
 
 dl {
   margin: 0 0 2em 0;
+  width: 800px;
 }
 
 dl dt {
@@ -2571,7 +2572,7 @@ dl dd {
 
 dl.alt dt {
   display: block;
-  width: 3em;
+  width: 23em;
   margin: 0;
   clear: left;
   float: left;
@@ -2579,6 +2580,10 @@ dl.alt dt {
 
 dl.alt dd {
   margin: 0 0 0.85em 5.5em;
+}
+
+.linkedin {
+  justify-items: center;
 }
 
 dl.alt:after {
