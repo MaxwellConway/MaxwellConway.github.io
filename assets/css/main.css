@@ -190,13 +190,13 @@ html {
 body {
   background-color: #5d9369;
   background-image: url("images/overlay.png"),
-    -moz-linear-gradient(45deg, #5d9369 15%, #93934d 85%);
+    -moz-linear-gradient(45deg, #5d9369 15%, #777777 85%);
   background-image: url("images/overlay.png"),
-    -webkit-linear-gradient(45deg, #5d9369 15%, #93934d 85%);
+    -webkit-linear-gradient(45deg, #5d9369 15%, #777777 85%);
   background-image: url("images/overlay.png"),
-    -ms-linear-gradient(45deg, #5d9369 15%, #93934d 85%);
+    -ms-linear-gradient(45deg, #5d9369 15%, #777777 85%);
   background-image: url("images/overlay.png"),
-    linear-gradient(45deg, #5d9369 15%, #93934d 85%);
+    linear-gradient(45deg, #5d9369 15%, #777777 85%);
 }
 
 body.is-preload *,
@@ -2516,6 +2516,10 @@ input[type="radio"]:focus + label:before {
 
 .image.main img {
   width: 100%;
+}
+
+.gamernet {
+  width: 1000px;
 }
 
 /* List */
