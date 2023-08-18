@@ -2568,6 +2568,7 @@ dl dt {
 
 dl dd {
   margin-left: 2em;
+  width: 1000px;
 }
 
 dl.alt dt {
@@ -2714,7 +2715,7 @@ ul.actions.fit.stacked {
   ul.actions:not(.fixed) li input[type="submit"].icon:before,
   ul.actions:not(.fixed) li input[type="reset"].icon:before,
   ul.actions:not(.fixed) li input[type="button"].icon:before,
-  ul.actions:not(.fixed) li button.icon:before,
+  n:before,
   ul.actions:not(.fixed) li .button.icon:before {
     margin-left: -0.5rem;
   }
