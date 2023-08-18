@@ -2522,6 +2522,10 @@ input[type="radio"]:focus + label:before {
   width: 1000px;
 }
 
+.erwikitool {
+  width: 1000px;
+}
+
 /* List */
 
 ol {
